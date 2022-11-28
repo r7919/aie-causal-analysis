@@ -1,0 +1,2 @@
+NIFTY 50 (^NSEI) from "Yahoo Finance": https://finance.yahoo.com/quote/%5ENSEI/
+COVID-19 Dataset by "Our World in Data": https://github.com/owid/covid-19-data
